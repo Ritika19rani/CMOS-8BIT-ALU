@@ -16,6 +16,6 @@ The project include transistor level CMOS implementation, schematic and simulati
 - Cadence Virtuoso
 - GPDK90(90nm CMOS Technology)
 # Author
- RITIKA RANI
- B.tech Electronics and Communication Engineering
- VLSI Design | Cadence Virtuoso | CMOS Design
+ - RITIKA RANI
+ - B.tech Electronics and Communication Engineering
+ - VLSI Design | Cadence Virtuoso | CMOS Design
